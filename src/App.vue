@@ -47,8 +47,8 @@ import Card3 from './components/Card/Card3.vue';
         <div class="">
             <h2 class="font-bold">LES PLUS POPULAIRES 🔥</h2>
             <div class="flex flex-row gap-[20px] absolute md:right-[80px] md:top-[611px] right-[20px] top-[655px]">
-                <img src="/src/assets/Vector 2.png" alt="">
-                <img src="/src/assets/Vector 1.png" alt="">
+                <img src="/src/assets/Vector2.png" alt="">
+                <img src="/src/assets/Vector1.png" alt="">
             </div>
         </div>
         <section class="flex md:flex-row gap-[30px] mt-[14px] flex-col">
@@ -108,21 +108,21 @@ import Card3 from './components/Card/Card3.vue';
             </div>
             <div class="flex flex-col gap-[8px] pl-0 ">
                 <h4 class="bg-gray-500 text-white md:bg-black md:text-gray-500 mt-auto md:p-0 p-[16px]">SOLUTIONS</h4>
-                <img class="md:hidden absolute right-[15px] top-[4932px]" src="/src/assets/Vector 6.png" alt="test">
+                <img class="md:hidden absolute right-[15px] top-[4932px]" src="/src/assets/Vector6.png" alt="test">
                 <p class="hidden md:block text-white leading-5">Développer les softs skills</p>
                 <p class="hidden md:block text-white leading-5">Digitaliser les formations</p>
                 <p class="hidden md:block text-white leading-5">Accompagner les déploiements</p>
             </div>
             <div class="flex flex-col gap-[8px]">
                 <h4 class="bg-gray-500 text-white md:bg-black md:text-gray-500 mt-auto md:p-0 p-[16px]">FORMATIONS</h4>
-                <img class="md:hidden absolute right-[15px] top-[4995px]" src="/src/assets/Vector 6.png" alt="test">
+                <img class="md:hidden absolute right-[15px] top-[4995px]" src="/src/assets/Vector6.png" alt="test">
                 <p class="hidden md:block text-white leading-5">Toutes les formations</p>
                 <p class="hidden md:block text-white leading-5">Télécharger le catalogue</p>
                 <p class="hidden md:block text-black leading-5">.</p>
             </div>
             <div class="flex flex-col gap-[8px]">
                 <h4 class="bg-gray-500 text-white md:bg-black md:text-gray-500 mt-auto md:p-0 p-[16px]">INFORMATIONS</h4>
-                <img class="md:hidden absolute right-[15px] top-[5058px]" src="/src/assets/Vector 6.png" alt="test">
+                <img class="md:hidden absolute right-[15px] top-[5058px]" src="/src/assets/Vector6.png" alt="test">
                 <p class="hidden md:block text-white leading-5">Nous rejoindre</p>
                 <p class="hidden md:block text-white leading-5">Nous contacter</p>
                 <p class="hidden md:block text-white leading-5">FAQ</p>
