@@ -52,7 +52,7 @@ import Card3 from './components/Card/Card3.vue';
             </div>
         </div>
         <section class="flex md:flex-row gap-[30px] mt-[14px] flex-col">
-            <Card3 class="" cardtitle="MANAGEMENT & LEADERSHIP" cardtext="Accueillir un.e collègue en situation de handicap" cardImg="/src/assets/plane.png" />
+            <Card3 class="" cardtitle="MANAGEMENT & LEADERSHIP" cardtext="Accueillir un.e collègue en situation de handicap" cardImg="src/assets/plane.png" />
             <Card class="md:block hidden" cardtitle="VENTE" cardtext="Accueillir un.e collègue en situation de handicap" cardImg="/src/assets/chess.png"/>
             <Card2 class="md:block hidden" cardtitle="RH,QVT & DIVERSITE" cardtext="Accueillir un.e collègue en situation de handicap" cardImg="/src/assets/hands.png"/>
             <Card3 class="md:block hidden" cardtitle="THEMATIQUE 1" cardtext="Accueillir un.e collègue en situation de handicap" cardImg="/src/assets/orange.png"/>
