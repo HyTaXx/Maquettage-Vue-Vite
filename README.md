@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+# Model-Vue-Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Reproduction of a model with Vue.js , Vite.js and tailwindcss
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Getting Started
+
+### Dependencies
+
+* Vue.js
+* Vite.js
+
+
+### Installing
+
+* To install the project , you need to create a file and clone the project inside of it using the following command 
+```
+git clone git@github.com:HyTaXx/Maquettage-Vue-Vite.git
+```
+
+### Executing program
+
+* To run the program head to your terminal and type the following command
+```
+npm run serve
+```
+* Then Ctrl + Click the adress in your terminal to get access to the project
