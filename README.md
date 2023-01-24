@@ -5,6 +5,11 @@ Reproduction of a model with Vue.js , Vite.js and tailwindcss
 
 ## Getting Started
 
+### Project setup
+```
+npm install
+```
+
 ### Dependencies
 
 * Vue.js
