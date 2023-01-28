@@ -30,3 +30,4 @@ npm install
 npm run serve
 ```
 * Then Ctrl + Click the adress in your terminal to get access to the project
+
