@@ -5,11 +5,6 @@ Reproduction of a model with Vue.js , Vite.js and tailwindcss
 
 ## Getting Started
 
-### Project setup
-```
-npm install
-```
-
 ### Dependencies
 
 * Vue.js
@@ -21,6 +16,11 @@ npm install
 * To install the project , you need to create a file and clone the project inside of it using the following command 
 ```
 git clone git@github.com:HyTaXx/Maquettage-Vue-Vite.git
+```
+
+### Project setup
+```
+npm install
 ```
 
 ### Executing program
